@@ -1,0 +1,65 @@
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.exe
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.deps.json
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.runtimeconfig.json
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.pdb
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.AssemblyReference.cache
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.Form1.resources
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.GenerateResource.cache
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.AssemblyInfoInputs.cache
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.AssemblyInfo.cs
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.CoreCompileInputs.cache
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.CopyComplete
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\refint\ExtrairFicheiroExcell.dll
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.pdb
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.genruntimeconfig.cache
+C:\Users\AdailtonNgunji\source\repos\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ref\ExtrairFicheiroExcell.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.exe
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.deps.json
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.runtimeconfig.json
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\ExtrairFicheiroExcell.pdb
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\EPPlus.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.AssemblyReference.cache
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.Form1.resources
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.GenerateResource.cache
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.AssemblyInfoInputs.cache
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.AssemblyInfo.cs
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.CoreCompileInputs.cache
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.sourcelink.json
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.csproj.CopyComplete
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\refint\ExtrairFicheiroExcell.dll
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.pdb
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ExtrairFicheiroExcell.genruntimeconfig.cache
+D:\Dev_Adailton\Projectos Pessoal\Extrair-Ficheiro_Excell\ExtrairFicheiroExcell\ExtrairFicheiroExcell\obj\Debug\net8.0-windows\ref\ExtrairFicheiroExcell.dll
